@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Recommended repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alterzero&repo=DBPN-Pytorch)](hhttps://github.com/alterzero/DBPN-Pytorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alterzero&repo=DBPN-Pytorch)](https://github.com/alterzero/DBPN-Pytorch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alterzero&repo=RBPN-PyTorch)](https://github.com/alterzero/RBPN-PyTorch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alterzero&repo=STARnet)](https://github.com/alterzero/STARnet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alterzero&repo=DBPN-caffe)](https://github.com/alterzero/DBPN-caffe)
