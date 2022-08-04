@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masashi-nagaya&repo=embryo-analysys)](https://github.com/masashi-nagaya/embryo-analysys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakitamedia&repo=drone_dataset)](https://github.com/kakitamedia/drone_dataset)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaten&repo=MotionAug)](https://github.com/meaten/MotionAug)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaten&repo=Boundary-aware-Image-Inpainting)](https://github.com/rain58/Boundary-aware-Image-Inpainting)
 
 ## Our projects list
 https://github.com/stars/IIM-TTIJ/lists/our-projects
