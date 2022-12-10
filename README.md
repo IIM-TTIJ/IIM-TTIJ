@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakitamedia&repo=drone_dataset)](https://github.com/kakitamedia/drone_dataset)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaten&repo=MotionAug)](https://github.com/meaten/MotionAug)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rain58&repo=Boundary-aware-Image-Inpainting)](https://github.com/rain58/Boundary-aware-Image-Inpainting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IIM-TTIJ&repo=MVA2023BirdDetection)](https://github.com/IIM-TTIJ/MVA2023BirdDetection)
 
 ## Our projects list
 https://github.com/stars/IIM-TTIJ/lists/our-projects
